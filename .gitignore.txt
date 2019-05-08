@@ -1,2 +1,0 @@
-# ignore all logs files
-emptyfolder/*
